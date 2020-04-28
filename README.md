@@ -24,5 +24,19 @@ Crie um aplicativo que permita aos usuários procurar livros inserindo uma consu
 - Adicionar animações de loading
 + Adicionar paginação (isso foi adicionado por mim, não tem no link original) 
 
+### To do List desse app
+
+ - fazer layout
+ - criar componente cards
+ - fazer input 
+ - listar livros 
+ - exibir livros de acordo com o input
+ - paginação
+ - criar componente de coin
+ - criar efeito de flip
+ - criar footer
+ - loading
+ - responsividade
+
 <img src="screens/01.png"/>
 <img src="screens/02.png"/>
