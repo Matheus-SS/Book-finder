@@ -23,3 +23,6 @@ Crie um aplicativo que permita aos usuários procurar livros inserindo uma consu
 - Implementar um design responsivo
 - Adicionar animações de loading
 + Adicionar paginação (isso foi adicionado por mim, não tem no link original) 
+
+<img src="screens/01.png"/>
+<img src="screens/02.png"/>
