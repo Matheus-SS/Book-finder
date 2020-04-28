@@ -22,4 +22,4 @@ Crie um aplicativo que permita aos usuários procurar livros inserindo uma consu
 - Para cada item da lista, adicione um link que enviará o usuário a um site externo, com mais informações sobre o livro
 - Implementar um design responsivo
 - Adicionar animações de loading
-+ Adicionar paginação (isso foi adicionado por min, não tem no link original) 
++ Adicionar paginação (isso foi adicionado por mim, não tem no link original) 
