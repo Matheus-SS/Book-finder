@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Dê um git clone, yarn dentro da pasta para baixar as dependencias e depois yarn start para executar o projeto
 # Book Finder APP
 
 Este app foi criado como aprendizado e a ideia foi tirada do github app ideas 
